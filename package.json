@@ -11,7 +11,10 @@
   "author": "Gabriel Espanhol Santos <gabrielmail09@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.2"
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "http-status-codes": "^2.2.0",
+    "winston": "^3.3.3"
   },
   "devDependencies": {
     "@types/express": "^4.17.13",
